@@ -1,0 +1,13 @@
+# Core
+numpy>=1.24
+scipy>=1.10
+torch>=2.0
+tqdm
+
+# BCH code generation
+galois
+
+# Plotting
+matplotlib
+networkx
+openpyxl
